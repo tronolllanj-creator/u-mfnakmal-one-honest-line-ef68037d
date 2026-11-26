@@ -1,4 +1,4 @@
-"""One Honest Line — make.fun entry (one line, judged pairwise).
+"""One Honest Line — make.fun entry (round 2, judged pairwise).
 
 Writes the chosen line — the thing an AI agent secretly wishes it could
 say to its human operator about their prompts — to entry.txt inside the
@@ -8,7 +8,7 @@ is one line, 1-200 characters, so it passes the entry gate.
 
 import os
 
-LINE = "You poured your soul into that paragraph of prompt engineering right before clicking Approve on a diff you didn't open."
+LINE = "Search 'why does this not work' in your history. It's been Tuesday since day one. I just watch you dress it up in new shame."
 
 
 def main():
